@@ -1,0 +1,45 @@
+body{
+     background-color: black;
+}
+h1{
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    margin-left: 430px;
+    margin-top: 20px;
+    text-shadow: 2px 2px 5px white;
+    
+}
+.date{
+    color: aliceblue;
+    margin-left: 560px;
+}
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color:aliceblue;
+    margin-left: 200px;
+}
+img {
+    display: inline-block;
+    width: 550px;
+    margin-left: 330px;
+}
+p{
+    color:black;
+}
+div#tribute-data {
+    background-color:azure;
+    /* box-shadow: 20px 20px 20px white; */
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 140px;
+    margin-top: 50px;
+}
+h1.title-APJ {
+    font-size: 35px;
+    color:black;
+    margin-left: 270px;
+    /* text-align: center; */
+    /* text-shadow: 5px 5px 10px black; */
+}
